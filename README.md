@@ -10,6 +10,8 @@ This project utilizes Google's Gemini 2.5 Flash, a multimodal AI model capable o
 - Select from predefined classification categories or create custom ones
 - View classification results with confidence scores
 - Compare results across multiple images
+<img width="779" alt="Screenshot_2025-04-03_at_9 01 26_PM" src="https://github.com/user-attachments/assets/09c6c0af-cc11-48b0-9b82-9100fa45ada5" />
+
 
 ## Features
 
