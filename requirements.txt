@@ -1,1 +1,7 @@
-
+google-generativeai>=0.3.0
+gradio>=4.11.0
+pillow>=9.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy>=1.24.0
+tqdm>=4.66.0
