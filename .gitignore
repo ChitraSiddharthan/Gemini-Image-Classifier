@@ -1,1 +1,42 @@
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Local development files
+.DS_Store
+Thumbs.db
+
+# Example images
+# examples/*
+# Uncomment the line above if you don't want to include example images in the repo
+
+# Gradio cached examples
+flagged/
+
 
