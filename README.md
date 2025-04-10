@@ -2,7 +2,7 @@
 
 A powerful image classification application using Google's Gemini 2.5 Flash model with a user-friendly Gradio interface.
 
-## Overview
+## Overview 
 
 This project utilizes Google's Gemini 2.5 Flash, a multimodal AI model capable of understanding and classifying images. The application provides a simple web interface built with Gradio that allows users to:
 
